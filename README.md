@@ -39,7 +39,7 @@ Hardware-ებზე მუშაობისას ყველაზე მ�
 
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_N2cG0d-Fzo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
