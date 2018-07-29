@@ -38,5 +38,20 @@ Hardware-ებზე მუშაობისას ყველაზე მ�
 
 
 
+# Process
 
+
+![img_20180728_195245](https://user-images.githubusercontent.com/11095204/43365494-d1c08360-933e-11e8-8cab-1460e3997349.jpg)
+![img_20180728_195248](https://user-images.githubusercontent.com/11095204/43365495-d1e5474a-933e-11e8-99bb-2d0365710921.jpg)
+![img_20180728_201551](https://user-images.githubusercontent.com/11095204/43365496-d209b76a-933e-11e8-815c-d08b3a9062d6.jpg)
+![img_20180728_201557](https://user-images.githubusercontent.com/11095204/43365497-d22c4ece-933e-11e8-8c5a-b7f067c0c537.jpg)
+![img_20180728_201919](https://user-images.githubusercontent.com/11095204/43365498-d24e10c2-933e-11e8-91aa-6bc81f991cb7.jpg)
+![img_20180728_202722](https://user-images.githubusercontent.com/11095204/43365499-d2708bd4-933e-11e8-8229-14d4631974c3.jpg)
+
+
+
+
+
+# Video Demonstrations:
+https://www.youtube.com/watch?v=_N2cG0d-Fzo
 
