@@ -1,4 +1,7 @@
 # Electro-Laboratory
+# Project: Smalle 
+# Mushroom greenhouse controller
+
 
 **Mikheil Zhghenti** **mzhgh14@freeuni.edu.ge**
 # შესავალი
