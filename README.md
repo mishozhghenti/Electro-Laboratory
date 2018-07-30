@@ -4,6 +4,7 @@
 
 
 **Mikheil Zhghenti**:**mzhgh14@freeuni.edu.ge**<br> **Otar Jankhoteli**:**ojank14@freeuni.edu.ge**
+
 -----------------------------------------------------------
 Smalle: it's a mushrooms greenhouse controller device which helps workers to detect high level of CO2 in the air and also guesses if mushroom is ready to be picked.
 
@@ -11,7 +12,6 @@ Distance measurement sensor is located horizontally and when small region of mus
 This device makes it easy and comfortable to control greenhouse.
 
 -----------------------------------------------------------
-
 # შესავალი
 MACS-ის ბოლო კურსე გადავწყვიტე, რომ საუნივერსიტეტო განათლებიდან არა მხოლოდ software development-ის მიმართულებით განვითარებულიყავი, არამედ hardware-ის მხარესაც გამეგო საფუძვლები და ის პრინციპები, რომლებიც software-ს არსებობის შესაძლებლობას აძლევდა.
 
