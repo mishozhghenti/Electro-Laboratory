@@ -8,8 +8,8 @@
 Smalle: it's a mushrooms greenhouse controller device which helps workers to detect high level of CO2 in the air and also guesses if mushroom is ready to be picked.
 
 Distance measurement sensor is located horizontally and when small region of mushrooms will be grown sensor detects this and says that it's time to be picked this region of mushrooms.
-
 This device makes it easy and comfortable to control greenhouse.
+
 -----------------------------------------------------------
 
 # შესავალი
