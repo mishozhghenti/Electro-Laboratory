@@ -3,7 +3,7 @@
 # Mushroom greenhouse controller
 
 
-**Mikheil Zhghenti** **mzhgh14@freeuni.edu.ge**<br> **Otar Jankhoteli** **ojank14@freeuni.edu.ge**
+**Mikheil Zhghenti**:**mzhgh14@freeuni.edu.ge**<br> **Otar Jankhoteli**:**ojank14@freeuni.edu.ge**
 -----------------------------------------------------------
 Smalle: it's a mushrooms greenhouse controller device which helps workers to detect high level of CO2 in the air and also guesses if mushroom is ready to be picked.
 
