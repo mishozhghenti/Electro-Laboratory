@@ -1,5 +1,5 @@
 # Electro-Laboratory
-# Mushroom greenhouse controller. Project Name: Smalle 
+# Mushroom greenhouse controller / Project Name: Smalle 
 
 
 **Mikheil Zhghenti**:**mzhgh14@freeuni.edu.ge**<br> **Otar Jankhoteli**:**ojank14@freeuni.edu.ge**
