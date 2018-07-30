@@ -1,5 +1,5 @@
 # Electro-Laboratory
-# Project: Smalle 
+# Project Name: Smalle 
 # Mushroom greenhouse controller
 
 
